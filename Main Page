@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recognition of Testing Laboratory - Under Construction</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f8f8f8;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 18px;
+      margin-bottom: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Recognition of Testing Laboratory</h1>
+    <p>We are currently developing the online platform for the PELP Recognition of Testing Laboratory. Stay tuned.</p>
+    <form action="your-email-provider" method="POST">
+      <input type="email" name="email" placeholder="Enter your email address" required>
+      <button type="submit">Notify Me</button>
+    </form>
+    <p>We'll keep you updated with our progress. Thank you for your patience.</p>
+  </div>
+</body>
+</html>
